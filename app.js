@@ -65,6 +65,7 @@ app.post('/api/message', function (req, res) {
   // Send the input to the assistant service
   assistant.message(payload, function (err, data) {
     if (err) {
+      console.log(err)
       return res.status(err.code || 500).json(err);
     }
     return res.json(updateMessage(payload, data));
