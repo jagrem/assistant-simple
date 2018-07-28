@@ -34,12 +34,12 @@ var PayloadPanel = (function() {
   // full width (regardless of screen size)
   function togglePanel(event, element) {
     var payloadColumn = document.querySelector(settings.selectors.payloadColumn);
-    if (element.classList.contains('full')) {
-      element.classList.remove('full');
-      payloadColumn.classList.remove('full');
+    if (element.classList.contains('not-full')) {
+      element.classList.remove('not-full');
+      payloadColumn.classList.remove('hide');
     } else {
-      element.classList.add('full');
-      payloadColumn.classList.add('full');
+      element.classList.add('not-full');
+      payloadColumn.classList.add('hide');
     }
   }
 
