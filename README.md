@@ -6,7 +6,7 @@ You can view a [demo][http://103.197.63.199/] of this app.
 
 ## Source
 
-The personal assistant
+The personal assistant was forked from the [Watson Assignment sample](https://github.com/watson-developer-cloud/assistant-simple)
 
 ## Running locally
 
