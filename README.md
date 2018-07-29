@@ -14,6 +14,8 @@ The image below shows the running chatbot, you can view the [demo](http://103.19
 
 The personal assistant web frontend was forked from an existing [Watson Assignment sample](https://github.com/watson-developer-cloud/assistant-simple)
 
+The training data is stored in a [JSON file](training/labs.json) that can be exported from and imported into the Watson-Assistant
+
 ## Running locally
 
 1. Install the dependencies
