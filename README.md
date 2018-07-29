@@ -4,7 +4,9 @@ LABS is a online chatbot service that helps startups find the resources that the
 
 You can view a [demo](http://103.197.63.199/) of this app.
 
-![](media/demo.gif)
+![](media/watson-demo.gif)
+
+![](media/webapp-demo.gif)
 
 ## Source
 
