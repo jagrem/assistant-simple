@@ -2,7 +2,7 @@
 
 LABS is a online chatbot service that helps startups find the resources that they need to navigate the complex world of starting a business. The chatbot uses the IBM Watson-Assistant engine to create a flexible interface which users can interact with more naturally.
 
-You can view a [demo][http://103.197.63.199/] of this app.
+You can view a [demo](http://103.197.63.199/) of this app.
 
 ## Source
 
