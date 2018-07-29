@@ -1,16 +1,18 @@
 <h1 align="center" style="border-bottom: none;">Legal advice for business startups (LABS)</h1>
 
-LABS is a online chatbot service that helps startups find the resources that they need to navigate the complex world of starting a business. The chatbot uses the IBM Watson-Assistant engine to create a flexible interface which users can interact with more naturally.
+LABS is a online chatbot service that helps startups find the resources that they need to navigate the complex world of starting a business. The chatbot uses the [IBM Watson-Assistant](https://www.ibm.com/watson/ai-assistant/) engine to create a flexible interface which users can interact with more naturally.
 
-You can view a [demo](http://103.197.63.199/) of this app.
+The image below shows the IBM Watson Assistant interface where we contructed the intents, entities, and dialogs that form the rules that the chatbot uses.
 
 ![](media/watson-demo.gif)
+
+The image below shows the running chatbot, you can view the [demo](http://103.197.63.199/) online:
 
 ![](media/webapp-demo.gif)
 
 ## Source
 
-The personal assistant was forked from the [Watson Assignment sample](https://github.com/watson-developer-cloud/assistant-simple)
+The personal assistant web frontend was forked from an existing [Watson Assignment sample](https://github.com/watson-developer-cloud/assistant-simple)
 
 ## Running locally
 
